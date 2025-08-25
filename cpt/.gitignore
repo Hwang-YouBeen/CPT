@@ -1,0 +1,11 @@
+/build/
+/out/
+/target/
+.gradle/
+*.log
+.idea/
+*.iml
+.DS_Store
+
+# keep wrapper jar in repo
+!gradle/wrapper/gradle-wrapper.jar
